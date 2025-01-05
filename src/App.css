@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.banner {
+  margin: 10px;
+}
+.logo {
+  margin: 10px;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  max-width: 300px;
+  flex-shrink: 0;
+  color: #9e2136;
+  font-size:large;
+}
