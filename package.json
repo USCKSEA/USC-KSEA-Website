@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://USCKSEA.github.io/my-app",
+  "homepage": "https://USCKSEA.github.io/Website",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
