@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+
 import Navbar from './components/Navbar/Navbar';
 import kseaLogo from './assets/ksea-logo.avif';
 import kseaBanner from './assets/ksea-banner.avif';
@@ -7,6 +8,7 @@ import kseaBanner from './assets/ksea-banner.avif';
 function App() {
   return (
     <div className="App">
+
       <div className="heading">
       <img src={kseaBanner} alt="KSEA Banner" className="banner"/>
       <p className="title">Korean-American Scientists and Engineers Association at USC</p>
