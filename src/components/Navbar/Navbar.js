@@ -1,34 +1,32 @@
+import { NavLink } from "react-router-dom";
+
+const navLinks = [
+    { name: "Home", path: "/home"},
+    { name: "About", path: "/about"},
+    { name: "Our Team", path: "/team"},
+    { name: "How to Join", path: "/join"},
+    { name: "Gallery", path: "/gallery"},
+    { name: "Contact Us", path: "/contact"},
+];
 
 
 const Navbar = () => {
 
     return (
-        <nav className="w-full p-4">
-            <ul className="flex justify-center space-x-6">
-                <li>
-                    <a href="/" className="nav-link">Home</a>
-                </li>
-                <li>
-                    <a href="/" className="nav-link">About</a>
-                </li>
-                <li>
-                    <a href="/" className="nav-link">Our Team</a>
-                </li>
-                <li>
-                    <a href="/" className="nav-link">How to Join</a>
-                </li>
-                <li>
-                    <a href="/" className="nav-link">Gallery</a>
-                </li>
-                <li>
-                    <a href="/" className="nav-link">Contact Us</a>
-                </li>
-
-            </ul>
-
+        <nav className="p-4 flex justify-center space-x-6">
+            {navLinks.map((link) => (
+                <NavLink 
+                    key={link.path} 
+                    to={link.path} 
+                    className={({ isActive }) =>
+                        isActive ? "text-[#9e2136]" : "hover:text-[#9e2136]"
+                    }
+                >
+                    {link.name}
+                </NavLink>
+            ))}
         </nav>
     );
-
 };
 
 export default Navbar;
