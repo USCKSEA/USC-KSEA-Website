@@ -7,6 +7,13 @@ import kseaLogo from './assets/ksea-logo.avif';
 import kseaBanner from './assets/ksea-banner.avif';
 import banner from './assets/below-navbar.gif';
 
+import Home from './pages/Home';
+import About from './pages/About';
+import Team from './pages/Team';
+import Join from './pages/Join';
+import Gallery from './pages/Gallery';
+import Contact from './pages/Contact';
+
 function App() {
   return (
     <Router>
@@ -24,6 +31,12 @@ function App() {
         {/* Below the banner changes */}
         <Routes>
           {/* <Route path="/" element={<Home />} /> */}
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/team" element={<Team />} />
+          <Route path="/join" element={<Join />} />
+          <Route path="/gallery" element={<Gallery />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
         </div>
         <Footer />
