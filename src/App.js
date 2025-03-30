@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -36,7 +36,7 @@ function App() {
           <Route path="/team" element={<Team />} />
           <Route path="/join" element={<Join />} />
           <Route path="/gallery" element={<Gallery />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/qna" element={<Contact />} />
         </Routes>
         </div>
         <Footer />

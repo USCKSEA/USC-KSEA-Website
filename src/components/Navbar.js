@@ -6,7 +6,7 @@ const navLinks = [
     { name: "Our Team", path: "/team"},
     { name: "How to Join", path: "/join"},
     { name: "Gallery", path: "/gallery"},
-    { name: "Contact Us", path: "/contact"},
+    { name: "Q&A", path: "/qna"},
 ];
 
 
