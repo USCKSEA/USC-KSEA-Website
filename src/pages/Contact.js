@@ -9,7 +9,7 @@ import PageContent from "../components/PageContent";
 const Qna = () => {
     return (
         <PageContent>
-        <div className="flex flex-col gap-4 mx-auto w-[60vw] max-w-[1000px] sm:w-[60vw] md:w-[70vw] mb-10">
+        <div className="flex flex-col gap-4 mx-auto w-[60vw] max-w-[900px] sm:w-[60vw] md:w-[70vw] mb-10">
             <div className="flex flex-col items-center">
                 <h1 className="font-bold text-5xl m-[5vh]">Questions?</h1>
             </div>
