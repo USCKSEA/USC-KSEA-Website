@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 
+// This wrapper component is for the transition animation
 const PageContent = ({ children }) => {
     return (
         <motion.div 
