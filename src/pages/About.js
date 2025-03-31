@@ -1,8 +1,10 @@
+import PageContent from "../components/PageContent";
 const images = Array.from({ length: 29 }, (_, index) => {
     return require(`../assets/about_${index + 1}.avif`);
   });
 const About = () => {
     return (
+        <PageContent>
         <div className="flex flex-col gap-4 mx-auto w-[60vw] max-w-[1000px] sm:w-[60vw] md:w-[70vw]">
             
             <div className="flex flex-col items-center">
@@ -66,6 +68,7 @@ const About = () => {
             <div className="mt-5"></div>
 
         </div>
+        </PageContent>
     );
 };
 

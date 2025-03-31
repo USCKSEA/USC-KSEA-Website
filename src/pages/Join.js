@@ -1,5 +1,8 @@
+import PageContent from "../components/PageContent";
+
 const Join = () => {
     return (
+        <PageContent>
         <div className="flex flex-col gap-6 mx-auto w-[60vw] max-w-[1000px] sm:w-[60vw] md:w-[70vw] text-xl mb-5 text-gray-500">
             <div className="mx-auto">
                 <h1 className="text-5xl font-bold m-[5vh] text-black">General Membership Details</h1>
@@ -36,6 +39,7 @@ const Join = () => {
             <p>Active members will receive early notification for events and priority for closed events and may qualify for the sponsorship for the Presidential Volunteers Service Award (PVSA) upon review.</p>
 
         </div>
+        </PageContent>
     );
 };
 

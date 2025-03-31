@@ -4,9 +4,11 @@ import facebook from '../assets/icon-fb.avif';
 import linkedin from '../assets/icon-li.avif';
 import instagram from '../assets/icon-ig.avif';
 import discord from '../assets/icon-dc.avif';
+import PageContent from "../components/PageContent";
 
 const Qna = () => {
     return (
+        <PageContent>
         <div className="flex flex-col gap-4 mx-auto w-[60vw] max-w-[1000px] sm:w-[60vw] md:w-[70vw] mb-10">
             <div className="flex flex-col items-center">
                 <h1 className="font-bold text-5xl m-[5vh]">Questions?</h1>
@@ -62,6 +64,7 @@ const Qna = () => {
 
             <p>For more information, feel free to email us directly at <a href="mailto:uscksea@usc.edu" className="underline">uscksea@usc.edu!</a></p>
         </div>
+        </PageContent>
     );
 };
 
