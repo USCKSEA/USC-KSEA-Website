@@ -10,6 +10,7 @@ const Gallery = () => {
             </div>
             <p className="mx-auto">Click to learn more about our recent events!</p>
 
+            {/* Need masonry pattern */}
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
                 {Events.map((item, index) => (
                     <div key={index} className="mb-4 border-2">
