@@ -1,5 +1,5 @@
 import PageContent from "../components/PageContent";
-import event1 from '../assets/event1.jpg';
+import Events from "../components/Events";
 
 const Gallery = () => {
     return (
@@ -10,21 +10,14 @@ const Gallery = () => {
             </div>
             <p className="mx-auto">Click to learn more about our recent events!</p>
 
-            <div className="grid grid-cols-3">
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="w-full border-2">asdf</div>
-                <div className="flex flex-col w-full border-2 justfy-center items-center">
-                    <div><img src={event1} alt="KSEA Logo" className="w-full mb-5" /></div>
-                    <p className="m-5">Fundraiser</p>
-                    <p>Description</p>
-                </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+                {Events.map((item, index) => (
+                    <div key={index} className="mb-4 border-2">
+                        <div><img src={item.image} alt={item.name} className="w-full mb-5" /></div>
+                        <p className="m-5 text-sm">{item.name}</p>
+                        <p className="m-5 text-sm">{item.description}</p>
+                    </div>
+                ))}
             </div>
         </div>
         </PageContent>
