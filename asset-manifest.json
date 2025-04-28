@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/USC-KSEA-Website/static/css/main.383873b5.css",
-    "main.js": "/USC-KSEA-Website/static/js/main.8c03d293.js",
+    "main.css": "/USC-KSEA-Website/static/css/main.6913ea6a.css",
+    "main.js": "/USC-KSEA-Website/static/js/main.fd4ded36.js",
     "static/js/488.7a876c9d.chunk.js": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js",
     "static/media/skitrip.jpeg": "/USC-KSEA-Website/static/media/skitrip.adfce5a03bb961918460.jpeg",
     "static/media/banquet.JPG": "/USC-KSEA-Website/static/media/banquet.b39b70cdd11f58933096.JPG",
@@ -22,6 +22,7 @@
     "static/media/event2.png": "/USC-KSEA-Website/static/media/event2.87edabbd3bd90db11097.png",
     "static/media/event4.png": "/USC-KSEA-Website/static/media/event4.1b8bb5e3317be6e1a6a7.png",
     "static/media/event1.jpg": "/USC-KSEA-Website/static/media/event1.82955f28dfcb6efedec6.jpg",
+    "static/media/kseahome.jpg": "/USC-KSEA-Website/static/media/kseahome.fb34dbff4fa6b8d55661.jpg",
     "static/media/event6.jpg": "/USC-KSEA-Website/static/media/event6.ad233a13c6d5e6872221.jpg",
     "static/media/charlotte.jpeg": "/USC-KSEA-Website/static/media/charlotte.6b8acc71fb6cccf094cf.jpeg",
     "static/media/hoyeol.jpeg": "/USC-KSEA-Website/static/media/hoyeol.1a9ae21474323927feeb.jpeg",
@@ -64,12 +65,12 @@
     "static/media/icon-li.avif": "/USC-KSEA-Website/static/media/icon-li.65add6ab8219d2096cb1.avif",
     "static/media/icon-fb.avif": "/USC-KSEA-Website/static/media/icon-fb.39d7192208ff54e97229.avif",
     "index.html": "/USC-KSEA-Website/index.html",
-    "main.383873b5.css.map": "/USC-KSEA-Website/static/css/main.383873b5.css.map",
-    "main.8c03d293.js.map": "/USC-KSEA-Website/static/js/main.8c03d293.js.map",
+    "main.6913ea6a.css.map": "/USC-KSEA-Website/static/css/main.6913ea6a.css.map",
+    "main.fd4ded36.js.map": "/USC-KSEA-Website/static/js/main.fd4ded36.js.map",
     "488.7a876c9d.chunk.js.map": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.383873b5.css",
-    "static/js/main.8c03d293.js"
+    "static/css/main.6913ea6a.css",
+    "static/js/main.fd4ded36.js"
   ]
 }
