@@ -16,7 +16,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/USC-KSEA-Website">
       <div className="flex flex-col min-h-screen">
 
         <div className="flex items-center justify-center gap-4 mt-4">
