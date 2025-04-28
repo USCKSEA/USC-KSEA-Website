@@ -1,6 +1,6 @@
 import PageContent from "../components/PageContent";
 const images = Array.from({ length: 29 }, (_, index) => {
-    return require(`../assets/about_${index + 1}.avif`);
+    return require(`../assets/logos/about_${index + 1}.avif`);
   });
 const About = () => {
     return (
