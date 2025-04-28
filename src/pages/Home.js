@@ -1,12 +1,15 @@
 import Logo from "../assets/kseaLogoBig.avif";
 import PageContent from "../components/PageContent";
 import banner from '../assets/below-navbar.gif';
+import home from '../assets/home/kseahome.jpg';
 
 const Home = () => {
     return (
         <PageContent>
             <div className="flex flex-col mb-[10vh]">
-                <div className="h-[85vh]">Some Media/Pic</div>
+                <div className="h-[85vh]">
+                    <img src={home} alt="usc background" className="w-full h-full object-cover object-top"/>
+                </div>
                 <img src={banner} alt="banner" className="w-full h-6 object-cover" />
             </div>
 

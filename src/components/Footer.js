@@ -1,7 +1,7 @@
-import facebook from '../assets/icon-fb.avif';
-import linkedin from '../assets/icon-li.avif';
-import instagram from '../assets/icon-ig.avif';
-import discord from '../assets/icon-dc.avif';
+import facebook from '../assets/sns/icon-fb.avif';
+import linkedin from '../assets/sns/icon-li.avif';
+import instagram from '../assets/sns/icon-ig.avif';
+import discord from '../assets/sns/icon-dc.avif';
 
 const Footer = () => {
     return (
