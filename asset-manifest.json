@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/USC-KSEA-Website/static/css/main.6913ea6a.css",
-    "main.js": "/USC-KSEA-Website/static/js/main.2bcd4129.js",
+    "main.js": "/USC-KSEA-Website/static/js/main.12796b01.js",
     "static/js/488.7a876c9d.chunk.js": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js",
     "static/media/skitrip.jpeg": "/USC-KSEA-Website/static/media/skitrip.adfce5a03bb961918460.jpeg",
     "static/media/banquet.JPG": "/USC-KSEA-Website/static/media/banquet.b39b70cdd11f58933096.JPG",
@@ -61,11 +61,11 @@
     "static/media/icon-fb.avif": "/USC-KSEA-Website/static/media/icon-fb.39d7192208ff54e97229.avif",
     "index.html": "/USC-KSEA-Website/index.html",
     "main.6913ea6a.css.map": "/USC-KSEA-Website/static/css/main.6913ea6a.css.map",
-    "main.2bcd4129.js.map": "/USC-KSEA-Website/static/js/main.2bcd4129.js.map",
+    "main.12796b01.js.map": "/USC-KSEA-Website/static/js/main.12796b01.js.map",
     "488.7a876c9d.chunk.js.map": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6913ea6a.css",
-    "static/js/main.2bcd4129.js"
+    "static/js/main.12796b01.js"
   ]
 }
