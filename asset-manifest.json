@@ -1,22 +1,18 @@
 {
   "files": {
     "main.css": "/USC-KSEA-Website/static/css/main.6913ea6a.css",
-    "main.js": "/USC-KSEA-Website/static/js/main.fd4ded36.js",
+    "main.js": "/USC-KSEA-Website/static/js/main.2bcd4129.js",
     "static/js/488.7a876c9d.chunk.js": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js",
     "static/media/skitrip.jpeg": "/USC-KSEA-Website/static/media/skitrip.adfce5a03bb961918460.jpeg",
     "static/media/banquet.JPG": "/USC-KSEA-Website/static/media/banquet.b39b70cdd11f58933096.JPG",
     "static/media/group.JPG": "/USC-KSEA-Website/static/media/group.7b470060dd1533804ac7.JPG",
-    "static/media/sangwon.JPG": "/USC-KSEA-Website/static/media/sangwon.af4aecf24e939163fb6f.JPG",
-    "static/media/jae.JPG": "/USC-KSEA-Website/static/media/jae.6d55a0e02fe48ebfa6f9.JPG",
     "static/media/juyeop.JPG": "/USC-KSEA-Website/static/media/juyeop.5c1ef28999ace5db0221.JPG",
-    "static/media/michael.JPG": "/USC-KSEA-Website/static/media/michael.2ddf1a25a3d76f9e165e.JPG",
     "static/media/junsoo.JPG": "/USC-KSEA-Website/static/media/junsoo.7cd11f11d2c9a9b7e0f2.JPG",
     "static/media/jacob.JPG": "/USC-KSEA-Website/static/media/jacob.eff5530f3bd1647bbb4d.JPG",
     "static/media/kaiden.JPG": "/USC-KSEA-Website/static/media/kaiden.74c9072cd2fcf9c27e36.JPG",
     "static/media/event5.jpg": "/USC-KSEA-Website/static/media/event5.6b54afcc10b450debfcc.jpg",
     "static/media/esther.JPG": "/USC-KSEA-Website/static/media/esther.37c2a2c8cdd0c262853f.JPG",
     "static/media/adam.jpeg": "/USC-KSEA-Website/static/media/adam.4d542adc1595bc65ba94.jpeg",
-    "static/media/donggun.JPG": "/USC-KSEA-Website/static/media/donggun.2c1648992d657f73dfc6.JPG",
     "static/media/noah.JPG": "/USC-KSEA-Website/static/media/noah.639857d7bde694d79cd4.JPG",
     "static/media/suna.JPG": "/USC-KSEA-Website/static/media/suna.df83fd20f0c69e66d73f.JPG",
     "static/media/event2.png": "/USC-KSEA-Website/static/media/event2.87edabbd3bd90db11097.png",
@@ -25,7 +21,6 @@
     "static/media/kseahome.jpg": "/USC-KSEA-Website/static/media/kseahome.fb34dbff4fa6b8d55661.jpg",
     "static/media/event6.jpg": "/USC-KSEA-Website/static/media/event6.ad233a13c6d5e6872221.jpg",
     "static/media/charlotte.jpeg": "/USC-KSEA-Website/static/media/charlotte.6b8acc71fb6cccf094cf.jpeg",
-    "static/media/hoyeol.jpeg": "/USC-KSEA-Website/static/media/hoyeol.1a9ae21474323927feeb.jpeg",
     "static/media/kseaLogoBig.avif": "/USC-KSEA-Website/static/media/kseaLogoBig.6e9a7b4ac83b386b1f2e.avif",
     "static/media/event3.jpg": "/USC-KSEA-Website/static/media/event3.6c791f920ca510799edc.jpg",
     "static/media/email.jpg": "/USC-KSEA-Website/static/media/email.2e4e21123be62e6b1733.jpg",
@@ -66,11 +61,11 @@
     "static/media/icon-fb.avif": "/USC-KSEA-Website/static/media/icon-fb.39d7192208ff54e97229.avif",
     "index.html": "/USC-KSEA-Website/index.html",
     "main.6913ea6a.css.map": "/USC-KSEA-Website/static/css/main.6913ea6a.css.map",
-    "main.fd4ded36.js.map": "/USC-KSEA-Website/static/js/main.fd4ded36.js.map",
+    "main.2bcd4129.js.map": "/USC-KSEA-Website/static/js/main.2bcd4129.js.map",
     "488.7a876c9d.chunk.js.map": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6913ea6a.css",
-    "static/js/main.fd4ded36.js"
+    "static/js/main.2bcd4129.js"
   ]
 }
