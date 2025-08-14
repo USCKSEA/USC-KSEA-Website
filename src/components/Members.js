@@ -9,14 +9,14 @@ import adam from '../assets/team/adam.jpeg';
 import esther from '../assets/team/esther.JPG';
 // import kate from '../assets/team/kate.jpeg';
 // import donggun from '../assets/team/donggun.JPG';
-// import parker from '../assets/team/parker.jpeg';
+import parker from '../assets/team/parker.jpeg';
 // import ryan from '../assets/team/ryan.jpeg';
 import charlotte from '../assets/team/charlotte.jpeg';
 // import kyungtae from '../assets/team/kyungtae.jpeg';
 import suna from '../assets/team/suna.JPG';
 // import hoyeol from '../assets/team/hoyeol.jpeg';
 // import erica from '../assets/team/erica.jpeg';
-// import phillip from '../assets/team/phillip.jpeg';
+import phillip from '../assets/team/phillip.PNG';
 import kaiden from '../assets/team/kaiden.JPG';
 // import andrew from '../assets/team/andrew.jpeg';
 
@@ -55,7 +55,7 @@ import kaiden from '../assets/team/kaiden.JPG';
             image: juyeop,
             name: 'Juyeop Lee',
             role: 'Professional Events Lead',
-            description: '',
+            description: 'asdf',
         },
         {
             image: kaiden,
@@ -81,12 +81,12 @@ import kaiden from '../assets/team/kaiden.JPG';
         //     role: 'PR/Marketing Lead',
         //     description: '',
         // },
-        // {
-        //     image: parker,
-        //     name: 'Parker Chang',
-        //     role: 'Professional Events',
-        //     description: '',
-        // },
+        {
+            image: parker,
+            name: 'Parker Chang',
+            role: 'Professional Events',
+            description: '',
+        },
         // {
         //     image: kyungtae,
         //     name: 'Kyungtae Kim',
@@ -105,12 +105,12 @@ import kaiden from '../assets/team/kaiden.JPG';
             role: 'Social Events',
             description: '',
         },
-        // {
-        //     image: phillip,
-        //     name: 'Phillip Suh',
-        //     role: 'PR/Marketing',
-        //     description: '',
-        // },
+        {
+            image: phillip,
+            name: 'Phillip Suh',
+            role: 'PR/Marketing',
+            description: '',
+        },
         // {
         //     image: lauren,
         //     name: 'Lauren Kim',

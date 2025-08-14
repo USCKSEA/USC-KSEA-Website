@@ -1,13 +1,15 @@
 import PageContent from "../components/PageContent";
 import Members from "../components/Members";
 import React from 'react';
-import image1 from "../assets/team/banquet.JPG";
+import image1 from "../assets/team/katalyst1.jpg";
 import image2 from "../assets/team/group.JPG";
 import image3 from "../assets/team/skitrip.jpeg";
+import image4 from "../assets/team/katalyst2.jpg"
+import image5 from "../assets/team/math.jpeg"
 import { useEffect, useState } from 'react';
 
 
-const images = [image1, image2, image3];
+const images = [image1, image2, image3, image4, image5];
 
 const Team = () => {
 
@@ -86,7 +88,8 @@ const Team = () => {
                                     className="absolute top-0 left-0 w-full h-full object-cover "
                                 />
                             </div>
-                            <p className="font-bold">{item.name} | {item.role}</p>
+                            <p className="font-bold">{item.name}</p>
+                            <p className="text-center italic">{item.role}</p>
                             <p className="text-gray-800">{item.description}</p>
                         </div>
                     );

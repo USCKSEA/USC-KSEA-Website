@@ -4,8 +4,14 @@ import event3 from '../assets/events/event3.jpg'
 import event4 from '../assets/events/event4.png'
 import event5 from '../assets/events/event5.jpg'
 import event6 from '../assets/events/event6.jpg'
+import event7 from '../assets/events/event7.jpg'
 
 const Events = [
+    {
+        image: event7,
+        name: 'KATALYST 2025',
+        description: 'We flew to North Carolina to attend the Katalyst conference where we learned so many useful insighs for our future careers!',
+    },
     {
         image: event1,
         name: 'Spring 2022 Valentine\'s Day Fundraiser',
