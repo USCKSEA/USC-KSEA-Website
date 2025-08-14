@@ -1,10 +1,14 @@
 {
   "files": {
     "main.css": "/USC-KSEA-Website/static/css/main.6913ea6a.css",
-    "main.js": "/USC-KSEA-Website/static/js/main.12796b01.js",
+    "main.js": "/USC-KSEA-Website/static/js/main.a8bca934.js",
     "static/js/488.7a876c9d.chunk.js": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js",
+    "static/media/katalyst2.jpg": "/USC-KSEA-Website/static/media/katalyst2.69ac1157ba1bf2dc20dd.jpg",
+    "static/media/katalyst1.jpg": "/USC-KSEA-Website/static/media/katalyst1.325282e8a7bafa31cebf.jpg",
+    "static/media/event7.jpg": "/USC-KSEA-Website/static/media/event7.395125ffb53ee19510b9.jpg",
     "static/media/skitrip.jpeg": "/USC-KSEA-Website/static/media/skitrip.adfce5a03bb961918460.jpeg",
-    "static/media/banquet.JPG": "/USC-KSEA-Website/static/media/banquet.b39b70cdd11f58933096.JPG",
+    "static/media/math.jpeg": "/USC-KSEA-Website/static/media/math.9007df331432d446bfe5.jpeg",
+    "static/media/parker.jpeg": "/USC-KSEA-Website/static/media/parker.3e346724ff5e926bb8e2.jpeg",
     "static/media/group.JPG": "/USC-KSEA-Website/static/media/group.7b470060dd1533804ac7.JPG",
     "static/media/juyeop.JPG": "/USC-KSEA-Website/static/media/juyeop.5c1ef28999ace5db0221.JPG",
     "static/media/junsoo.JPG": "/USC-KSEA-Website/static/media/junsoo.7cd11f11d2c9a9b7e0f2.JPG",
@@ -18,6 +22,7 @@
     "static/media/event2.png": "/USC-KSEA-Website/static/media/event2.87edabbd3bd90db11097.png",
     "static/media/event4.png": "/USC-KSEA-Website/static/media/event4.1b8bb5e3317be6e1a6a7.png",
     "static/media/event1.jpg": "/USC-KSEA-Website/static/media/event1.82955f28dfcb6efedec6.jpg",
+    "static/media/phillip.PNG": "/USC-KSEA-Website/static/media/phillip.766ba9961359e2d2ef98.PNG",
     "static/media/kseahome.jpg": "/USC-KSEA-Website/static/media/kseahome.fb34dbff4fa6b8d55661.jpg",
     "static/media/event6.jpg": "/USC-KSEA-Website/static/media/event6.ad233a13c6d5e6872221.jpg",
     "static/media/charlotte.jpeg": "/USC-KSEA-Website/static/media/charlotte.6b8acc71fb6cccf094cf.jpeg",
@@ -61,11 +66,11 @@
     "static/media/icon-fb.avif": "/USC-KSEA-Website/static/media/icon-fb.39d7192208ff54e97229.avif",
     "index.html": "/USC-KSEA-Website/index.html",
     "main.6913ea6a.css.map": "/USC-KSEA-Website/static/css/main.6913ea6a.css.map",
-    "main.12796b01.js.map": "/USC-KSEA-Website/static/js/main.12796b01.js.map",
+    "main.a8bca934.js.map": "/USC-KSEA-Website/static/js/main.a8bca934.js.map",
     "488.7a876c9d.chunk.js.map": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6913ea6a.css",
-    "static/js/main.12796b01.js"
+    "static/js/main.a8bca934.js"
   ]
 }
