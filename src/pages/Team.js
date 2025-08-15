@@ -62,12 +62,14 @@ const Team = () => {
             <p>The <span className="font-bold">Executive Board ("E-Board")</span> functions as the governing body of the USC KSEA YG Group. Each Spring Semester, the three new presidents (two Co-Presidents and one Vice President) are selected to lead the E-Board for the following school year. The presidents lead the E-Board through internal management and represent the group through external communications with our community.</p>
 
             <div>
-                <p>The E-Board consists of four different positions, as outlined below:</p>
+                <p>The E-Board consists of six different positions, as outlined below:</p>
                 <ul className="pl-5">
-                    <li>&#8226; Networking Directors</li>
-                    <li>&#8226; Events Directors</li>
+                    <li>&#8226; Professional Events Directors</li>
+                    <li>&#8226; Social Events Directors</li>
                     <li>&#8226; Public Relations and Marketing Directors</li>
                     <li>&#8226; Finance Directors</li>
+                    <li>&#8226; Project Development Directors</li>
+                    <li>&#8226; Design Directors</li>
                 </ul>
             </div>
 

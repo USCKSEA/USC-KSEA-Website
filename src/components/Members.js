@@ -15,7 +15,7 @@ import charlotte from '../assets/team/charlotte.jpeg';
 // import kyungtae from '../assets/team/kyungtae.jpeg';
 import suna from '../assets/team/suna.JPG';
 // import hoyeol from '../assets/team/hoyeol.jpeg';
-// import erica from '../assets/team/erica.jpeg';
+import erica from '../assets/team/erica.JPG';
 import phillip from '../assets/team/phillip.PNG';
 import kaiden from '../assets/team/kaiden.JPG';
 // import andrew from '../assets/team/andrew.jpeg';
@@ -75,12 +75,12 @@ import kaiden from '../assets/team/kaiden.JPG';
         //     role: 'Design Lead',
         //     description: '',
         // },
-        // {
-        //     image: erica,
-        //     name: 'Erica Shin',
-        //     role: 'PR/Marketing Lead',
-        //     description: '',
-        // },
+        {
+            image: erica,
+            name: 'Erica Shin',
+            role: 'PR/Marketing Lead',
+            description: '',
+        },
         {
             image: parker,
             name: 'Parker Chang',
