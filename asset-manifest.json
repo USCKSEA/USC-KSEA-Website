@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/USC-KSEA-Website/static/css/main.6913ea6a.css",
-    "main.js": "/USC-KSEA-Website/static/js/main.bfe9c5b9.js",
+    "main.js": "/USC-KSEA-Website/static/js/main.834041dc.js",
     "static/js/488.7a876c9d.chunk.js": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js",
     "static/media/katalyst2.jpg": "/USC-KSEA-Website/static/media/katalyst2.69ac1157ba1bf2dc20dd.jpg",
     "static/media/katalyst1.jpg": "/USC-KSEA-Website/static/media/katalyst1.325282e8a7bafa31cebf.jpg",
     "static/media/event7.jpg": "/USC-KSEA-Website/static/media/event7.395125ffb53ee19510b9.jpg",
+    "static/media/event10.png": "/USC-KSEA-Website/static/media/event10.9da0fc2750a47e3630c4.png",
     "static/media/skitrip.jpeg": "/USC-KSEA-Website/static/media/skitrip.adfce5a03bb961918460.jpeg",
     "static/media/event8.jpeg": "/USC-KSEA-Website/static/media/event8.1ef6898b1378a70f43f9.jpeg",
+    "static/media/event9.jpg": "/USC-KSEA-Website/static/media/event9.fbfa3060352edf9b69ed.jpg",
+    "static/media/event11.png": "/USC-KSEA-Website/static/media/event11.5c7b60462d09f31ba2eb.png",
     "static/media/erica.JPG": "/USC-KSEA-Website/static/media/erica.70f59c7effdb78124b48.JPG",
     "static/media/math.jpeg": "/USC-KSEA-Website/static/media/math.9007df331432d446bfe5.jpeg",
     "static/media/parker.jpeg": "/USC-KSEA-Website/static/media/parker.3e346724ff5e926bb8e2.jpeg",
@@ -68,11 +71,11 @@
     "static/media/icon-fb.avif": "/USC-KSEA-Website/static/media/icon-fb.39d7192208ff54e97229.avif",
     "index.html": "/USC-KSEA-Website/index.html",
     "main.6913ea6a.css.map": "/USC-KSEA-Website/static/css/main.6913ea6a.css.map",
-    "main.bfe9c5b9.js.map": "/USC-KSEA-Website/static/js/main.bfe9c5b9.js.map",
+    "main.834041dc.js.map": "/USC-KSEA-Website/static/js/main.834041dc.js.map",
     "488.7a876c9d.chunk.js.map": "/USC-KSEA-Website/static/js/488.7a876c9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6913ea6a.css",
-    "static/js/main.bfe9c5b9.js"
+    "static/js/main.834041dc.js"
   ]
 }
