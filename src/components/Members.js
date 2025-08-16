@@ -7,7 +7,7 @@ import junsoo from '../assets/team/junsoo.JPG';
 import jacob from '../assets/team/jacob.JPG';
 import adam from '../assets/team/adam.jpeg';
 import esther from '../assets/team/esther.JPG';
-// import kate from '../assets/team/kate.jpeg';
+import kate from '../assets/team/kate.JPG';
 // import donggun from '../assets/team/donggun.JPG';
 import parker from '../assets/team/parker.jpeg';
 // import ryan from '../assets/team/ryan.jpeg';
@@ -69,12 +69,12 @@ import kaiden from '../assets/team/kaiden.JPG';
             role: 'Project Development Lead',
             description: '',
         },
-        // {
-        //     image: kate,
-        //     name: 'Kate Shin',
-        //     role: 'Design Lead',
-        //     description: '',
-        // },
+        {
+            image: kate,
+            name: 'Kate Shin',
+            role: 'Design Lead',
+            description: '',
+        },
         {
             image: erica,
             name: 'Erica Shin',
