@@ -18,7 +18,8 @@ import suna from '../assets/team/suna.JPG';
 import erica from '../assets/team/erica.JPG';
 import phillip from '../assets/team/phillip.PNG';
 import kaiden from '../assets/team/kaiden.JPG';
-// import andrew from '../assets/team/andrew.jpeg';
+import andrew from '../assets/team/keonhoo.JPG';
+import lauren from '../assets/team/lauren.jpeg';
 
     const Members = [
         {
@@ -111,19 +112,18 @@ import kaiden from '../assets/team/kaiden.JPG';
             role: 'PR/Marketing',
             description: '',
         },
-        // {
-        //     image: lauren,
-        //     name: 'Lauren Kim',
-        //     role: 'Social Events',
-        //     description: '',
-        // },
-        // {
-        //     image: andrew,
-        //     name: 'Andrew Park',
-        //     role: 'Networking',
-        //     description: '',
-        // },
-
+        {
+            image: lauren,
+            name: 'Lauren Kim',
+            role: 'Social Events',
+            description: '',
+        },
+        {
+            image: andrew,
+            name: 'Andrew Park',
+            role: 'Networking',
+            description: '',
+        },
     ];
 
 export default Members;
