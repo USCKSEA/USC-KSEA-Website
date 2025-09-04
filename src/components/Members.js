@@ -29,8 +29,8 @@ import lauren from '../assets/team/lauren.jpeg';
             description: '',
         },
         {
-            image: junsoo,
-            name: 'Junsoo Kim',
+            image: jacob,
+            name: 'Jacob Cho',
             role: 'Vice President',
             description: '',
         },
@@ -44,12 +44,6 @@ import lauren from '../assets/team/lauren.jpeg';
             image: esther,
             name: 'Esther Chung',
             role: 'Senior Advisor',
-            description: '',
-        },
-        {
-            image: jacob,
-            name: 'Jacob Cho',
-            role: 'Finance Lead',
             description: '',
         },
         {
@@ -121,7 +115,7 @@ import lauren from '../assets/team/lauren.jpeg';
         {
             image: andrew,
             name: 'Andrew Park',
-            role: 'Networking',
+            role: 'Professional Events',
             description: '',
         },
     ];
