@@ -114,7 +114,7 @@ import lauren from '../assets/team/lauren.jpeg';
         },
         {
             image: andrew,
-            name: 'Andrew Park',
+            name: 'Keonhoo Park',
             role: 'Professional Events',
             description: '',
         },
