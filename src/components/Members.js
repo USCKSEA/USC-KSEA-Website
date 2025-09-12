@@ -82,6 +82,12 @@ import lauren from '../assets/team/lauren.jpeg';
             role: 'Professional Events',
             description: '',
         },
+        {
+            image: andrew,
+            name: 'Keonhoo Park',
+            role: 'Professional Events',
+            description: '',
+        },
         // {
         //     image: kyungtae,
         //     name: 'Kyungtae Kim',
@@ -95,12 +101,6 @@ import lauren from '../assets/team/lauren.jpeg';
         //     description: '',
         // },
         {
-            image: charlotte,
-            name: 'Charlotte Kwon',
-            role: 'Social Events',
-            description: '',
-        },
-        {
             image: phillip,
             name: 'Phillip Suh',
             role: 'PR/Marketing',
@@ -113,9 +113,9 @@ import lauren from '../assets/team/lauren.jpeg';
             description: '',
         },
         {
-            image: andrew,
-            name: 'Keonhoo Park',
-            role: 'Professional Events',
+            image: charlotte,
+            name: 'Charlotte Kwon',
+            role: 'Social Events',
             description: '',
         },
     ];
