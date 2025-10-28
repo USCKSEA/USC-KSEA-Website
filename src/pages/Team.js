@@ -5,7 +5,7 @@ import image1 from "../assets/team/katalyst1.jpg";
 import image2 from "../assets/team/group.JPG";
 import image3 from "../assets/team/skitrip.jpeg";
 import image4 from "../assets/team/katalyst2.jpg"
-import image5 from "../assets/team/math.jpeg"
+import image5 from "../assets/team/girls.JPG"
 import { useEffect, useState } from 'react';
 
 
